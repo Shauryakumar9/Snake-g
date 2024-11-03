@@ -1,0 +1,26 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  background: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: large;
+  border-radius: 7px;
+  margin-top: 9px;
+  margin-bottom: 12px;
+}
+button:active {
+  scale: 0.9;
+}
